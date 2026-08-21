@@ -22,7 +22,7 @@ Approximately 247 out of every 1,000 claims were flagged as potentially fraudule
 **Major Damage Shows Higher Fraud Risk:**
 Major damage incidents recorded the highest fraud rate among the severity categories analysed.
 
-**Single-Vehicle Collisions Lead Incident Types**
+**Single-Vehicle Collisions Lead Incident Types:**
 Single-vehicle collisions recorded the highest fraud rate among the incident types.
 
 **Higher-Risk Age Group Identified:**
@@ -50,6 +50,7 @@ Regularly reviewing claims data can help identify new fraud patterns early.
 ## Tools Used
 **SQL:** For Data Cleaning and KPI calculations
 **Power BI:** For Building Interactive Dashboard
+
 
 
 
