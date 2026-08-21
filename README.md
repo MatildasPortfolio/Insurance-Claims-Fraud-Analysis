@@ -44,13 +44,13 @@ Fraud activity was more concentrated during certain hours of the day, providing 
 Dodge and Suburu recorded the highest claim costs, making them the leading vehicle make total claim cost.
 
 ## Recommendations
-**Review High-Risk Claims**
+**Review High-Risk Claims:**
 Claims with several fraud risk factors should be checked more carefully before approval.
 
-**Focus on High-Risk Areas**
+**Focus on High-Risk Areas:**
 Fraud teams can pay closer attention to incident types, locations, age groups, and times with higher fraud rates.
 
-**Monitor Claims Regularly**
+**Monitor Claims Regularly:**
 Regularly reviewing claims data can help identify new fraud patterns early.
 
 ## Tools Used
