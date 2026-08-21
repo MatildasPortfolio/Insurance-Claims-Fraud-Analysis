@@ -58,6 +58,11 @@ Regularly reviewing claims data can help identify new fraud patterns early.
 
 **Power BI:** For Building Interactive Dashboard
 
+## Dashboard 
+Preview the dashboard by clicking on the link below:
+
+https://github.com/MatildasPortfolio/Insurance-Claims-Fraud-Analysis/blob/main/Insurance%20Fraud%20Analysis%20Dashboard.png
+
 
 
 
