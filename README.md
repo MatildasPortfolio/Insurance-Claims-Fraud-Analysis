@@ -16,25 +16,25 @@ Which age groups show higher fraud risk?
 Are there specific hours of the day when fraud activity is more concentrated?
 
 ## Key Insights
-**24.7% Fraud Rate**
+**24.7% Fraud Rate:**
 Approximately 247 out of every 1,000 claims were flagged as potentially fraudulent.
 
-**Major Damage Shows Higher Fraud Risk**
+**Major Damage Shows Higher Fraud Risk:**
 Major damage incidents recorded the highest fraud rate among the severity categories analysed.
 
 **Single-Vehicle Collisions Lead Incident Types**
 Single-vehicle collisions recorded the highest fraud rate among the incident types.
 
-**Higher-Risk Age Group Identified**
+**Higher-Risk Age Group Identified:**
 Customers aged 60+ represented the highest-risk demographic group in the analysis.
 
-**Fraud Exposure Varies by Location**
+**Fraud Exposure Varies by Location:**
 Some cities showed noticeably higher fraud exposure than others, highlighting areas that may require closer attention.
 
-**Fraud Activity Varies by Time**
+**Fraud Activity Varies by Time:**
 Fraud activity was more concentrated during certain hours of the day, providing another dimension for understanding potential risk.
 
-**Vehicle Claim Costs**
+**Vehicle Claim Costs:**
 Dodge and Suburu recorded the highest claim costs, making them the leading vehicle make total claim cost.
 
 ## Recommendations
