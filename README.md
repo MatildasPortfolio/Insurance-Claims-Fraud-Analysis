@@ -49,6 +49,7 @@ Regularly reviewing claims data can help identify new fraud patterns early.
 
 ## Tools Used
 **SQL:** For Data Cleaning and KPI calculations
+
 **Power BI:** For Building Interactive Dashboard
 
 
