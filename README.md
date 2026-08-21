@@ -8,11 +8,17 @@ Insurance fraud can increase claim costs, reduce profitability, and take resourc
 ## Business Questions
 The analysis was designed to answer the following questions:
 What is the overall fraud rate in the claims data?
+
 Which incident types have the highest fraud rates?
+
 Which incident severity levels are most associated with fraud?
+
 Which vehicle makes have the highest claim costs?
+
 Which locations have the highest fraud exposure?
+
 Which age groups show higher fraud risk?
+
 Are there specific hours of the day when fraud activity is more concentrated?
 
 ## Key Insights
