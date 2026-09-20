@@ -34,6 +34,9 @@ The analysis was designed to answer the following questions:
 
 - Are there specific hours of the day when fraud activity is more concentrated?
 
+## Data Preparation & Analysis
+The dataset was cleaned and prepared using SQL, where the required KPIs were also calculated. Exploratory data analysis was then performed in Power BI to identify patterns and trends in potentially fraudulent claims, followed by dashboard development and visualization.
+
 ## Key Insights
 **24.7% Fraud Rate:**
 Approximately 247 out of every 1,000 claims were flagged as potentially fraudulent.
